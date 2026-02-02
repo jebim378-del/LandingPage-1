@@ -1,5 +1,5 @@
 
-# 🧸 Teddy AI - High-Conversion Agency Landing Page
+# T - High-Conversion Agency Landing Page
 
 Eine moderne, performante Landing Page für eine KI-Agentur, entwickelt mit **React 19**, **Tailwind CSS** und **Three.js**.
 
@@ -42,7 +42,7 @@ Um dieses Projekt auf GitHub zu pushen:
     ```bash
     git init
     git add .
-    git commit -m "Initial commit: Teddy AI Landing Page"
+    git commit -m "Initial commit: T Landing Page"
     git branch -M main
     git remote add origin https://github.com/DEIN-USERNAME/teddy-ai-clone.git
     git push -u origin main
